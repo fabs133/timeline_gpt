@@ -41,12 +41,14 @@ python main_launcher.py
 ```
 
 This will:
-- Open a window to select between the prompt generator or the timeline generator <img width="218" height="140" alt="image" src="https://github.com/user-attachments/assets/483549a0-fee1-4b27-b344-c8d040af9a48" />
+- Open a window to select between the prompt generator or the timeline generator
+  <img width="218" height="140" alt="image" src="https://github.com/user-attachments/assets/483549a0-fee1-4b27-b344-c8d040af9a48" />
 - In the prompt generator you can choor between different modes and enter a start/end Year upon some other filters
  <img width="659" height="675" alt="image" src="https://github.com/user-attachments/assets/abd34d96-be84-4fa2-86cc-6248215a68f6" />
 - You can generate the prompt and copy it out of the window below or save it to a text file
 - The prompt is designed to create a downloadable json file as an output from the AI
-- When selecting the timeline generator you can choose the generated json file <img width="1020" height="635" alt="image" src="https://github.com/user-attachments/assets/0d02c4c5-ed56-45d4-8490-e6f072729d62" />
+- When selecting the timeline generator you can choose the generated json file
+  <img width="1020" height="635" alt="image" src="https://github.com/user-attachments/assets/0d02c4c5-ed56-45d4-8490-e6f072729d62" />
 - The program will choose the theme and renderer according to the config.json file at themes/config.json, it will then generate the timeline according to the data from the json file
 - Append any "ghost" figures (referenced influencers not in the dataset)
 - Render the timeline using your configured theme (default: `parchment`)
