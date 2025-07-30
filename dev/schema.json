@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "created": "<date>",
+    "source": "AI generated"
+  },
+  "persons": [
+    {
+      "name": "string",
+      "start": "int or 'circa -###'",
+      "end": "int",
+      "start_is_approx": "bool",
+      "influences": [
+        { "target": "string", "type": "string", "certainty": "string" }
+      ],
+      "summary": "string",
+      "school_of_thought": "string",
+      "region": "string",
+      "quotes": ["string", "..."],
+      "sources": ["string", "..."]
+    }
+  ],
+  "events": [
+    {
+      "name": "string",
+      "start_year": "int",
+      "end_year": "int (optional)",
+      "description": "string",
+      "scope": "local | major | global",
+      "type": "string",
+      "region": "string",
+      "related_to": ["string", "..."]
+    }
+  ]
+}

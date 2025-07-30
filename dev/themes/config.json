@@ -1,0 +1,39 @@
+{"THEMES" : {
+    "light": {
+        "background": "white",
+        "grid_color": "lightgray",
+        "text_color": "black",
+        "event_colors": {
+            "local": "gray",
+            "major": "orange",
+            "global": "red"
+        }
+    },
+    "dark": {
+        "background": "#111111",
+        "grid_color": "#333333",
+        "text_color": "white",
+        "event_colors": {
+            "local": "#888888",
+            "major": "#ffa500",
+            "global": "#ff4c4c"
+        }
+    },
+    "parchment": {
+        "background": "#f5e9d3",
+        "grid_color": "#c2b280",
+        "text_color": "#4b3621",
+        "event_colors": {
+            "local": "#b0a084",
+            "major": "#9c8468",
+            "global": "#8b5e3c"
+        }
+    }
+},
+
+"SCHOOL_COLORS" : {
+    "Platonism": "#4472c4",
+    "Aristotelianism": "#9bbb59",
+    "Socratic Method": "#c0504d",
+    "Stoicism": "#8064a2"
+}}
