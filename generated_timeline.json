@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "created": "2025-07-27",
+    "source": "AI generated"
+  },
+  "persons": [
+    {
+      "name": "Slavoj \u017di\u017eek",
+      "start": 1949,
+      "end": 2025,
+      "start_is_approx": false,
+      "influences": [
+        {
+          "target": "Mark Fisher",
+          "type": "intellectual",
+          "certainty": "high"
+        }
+      ],
+      "summary": "\u017di\u017eek explored the void at the heart of ideology, challenging both postmodern and liberal interpretations of nihilism with Lacanian psychoanalysis and Marxist theory.",
+      "school_of_thought": "Psychoanalytic Marxism",
+      "region": "Europe",
+      "quotes": [
+        "We feel free because we lack the very language to articulate our unfreedom."
+      ],
+      "sources": [
+        "The Parallax View",
+        "Living in the End Times"
+      ]
+    },
+    {
+      "name": "Mark Fisher",
+      "start": 1968,
+      "end": 2017,
+      "start_is_approx": false,
+      "influences": [
+        {
+          "target": "Slavoj \u017di\u017eek",
+          "type": "intellectual",
+          "certainty": "high"
+        },
+        {
+          "target": "Jacques Derrida",
+          "type": "intellectual",
+          "certainty": "medium"
+        }
+      ],
+      "summary": "Fisher critiqued capitalist realism as a manifestation of cultural and political nihilism, where alternatives to capitalism were deemed unthinkable.",
+      "school_of_thought": "Cultural Theory",
+      "region": "UK",
+      "quotes": [
+        "It's easier to imagine the end of the world than the end of capitalism."
+      ],
+      "sources": [
+        "Capitalist Realism",
+        "Ghosts of My Life"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "name": "2008 Financial Crisis",
+      "start_year": 2008,
+      "end_year": 2009,
+      "description": "Global economic collapse led to disillusionment with neoliberal capitalism, fueling nihilistic sentiments about politics and progress.",
+      "scope": "global",
+      "type": "economic",
+      "region": "global",
+      "related_to": [
+        "Mark Fisher"
+      ]
+    },
+    {
+      "name": "Rise of Online Radicalism",
+      "start_year": 2010,
+      "end_year": 2025,
+      "description": "Digital platforms enabled nihilistic ideologies to flourish, from ironic detachment to alt-right fatalism.",
+      "scope": "global",
+      "type": "sociopolitical",
+      "region": "global",
+      "related_to": []
+    }
+  ]
+}
